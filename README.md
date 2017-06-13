@@ -1,4 +1,4 @@
-# Arquivos de linguagem do Laravel 5.1 - Português do Brasil
+# Arquivos de linguagem do Laravel 5.4 - Português do Brasil
 
 ## Instalação
 
